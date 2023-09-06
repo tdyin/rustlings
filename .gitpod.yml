@@ -5,3 +5,4 @@ tasks:
 vscode:
   extensions:
     - rust-lang.rust-analyzer@0.3.1348
+    - tamasfe.even-better-toml
